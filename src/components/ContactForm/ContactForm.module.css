@@ -1,0 +1,22 @@
+.formContact {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border: 1px black solid;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.formContactLable {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.inputFormContact {
+    height: 20px;
+}
+
+.addContactBtn {
+    padding: 10px;
+}

@@ -1,0 +1,9 @@
+.filterLabel {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.filterInput {
+    height: 20px;
+}
